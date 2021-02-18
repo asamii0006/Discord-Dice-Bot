@@ -115,7 +115,7 @@ async def roll(ctx, *, roll : str):
         # If an exception is raised, have the bot say so in the channel
         await bot.say("{0}, an unexpected error has occured: {1}.".format(author.mention, err))
         raise err
-
+bot.run(ODExODgxOTEzODgyNjQwNDA3.YC4p9A.jbiFMJ4Tu-t20gA2Y_8dTt1vLFg)
 # Start the bot with the appropriate credentials
 # bot.run(login_email, password)
 # bot.run('login_token')
